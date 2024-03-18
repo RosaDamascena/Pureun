@@ -92,59 +92,74 @@
 |remove|파일을 삭제하는 작업만 수행한 경우|
 
  ### ⚙ Management Tool
-<img alt="Jira" src ="https://img.shields.io/badge/jira-3776AB.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
-
-<img alt="Gitlab" src ="https://img.shields.io/badge/gitlab-3776AB.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=orange"/>
-
-<img alt="Mattermost" src ="https://img.shields.io/badge/Mattermost-3776AB.svg?&style=for-the-badge&logo=Mattermost&logoColor=white"/>
-
-<img alt="figma" src ="https://img.shields.io/badge/figma-3776AB.svg?&style=for-the-badge&logo=figma&logoColor=white&color=red"/>
-
-<img alt="notion" src ="https://img.shields.io/badge/notion-3776AB.svg?&style=for-the-badge&logo=notion&logoColor=white&color=black"/>
+ 
+<div>
+ <img alt="Jira" src ="https://img.shields.io/badge/jira-3776AB.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+ 
+ <img alt="Gitlab" src ="https://img.shields.io/badge/gitlab-3776AB.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=orange"/>
+ 
+ <img alt="Mattermost" src ="https://img.shields.io/badge/Mattermost-3776AB.svg?&style=for-the-badge&logo=Mattermost&logoColor=white"/>
+ 
+ <img alt="figma" src ="https://img.shields.io/badge/figma-3776AB.svg?&style=for-the-badge&logo=figma&logoColor=white&color=red"/>
+ 
+ <img alt="notion" src ="https://img.shields.io/badge/notion-3776AB.svg?&style=for-the-badge&logo=notion&logoColor=white&color=black"/> 
+</div>
 
 ### 💻 IDE
 
 <img alt="vscode" src ="https://img.shields.io/badge/vscode-3776AB.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&"/>
 
 ### 🔑 Infra
-<img alt="amazonAWS" src ="https://img.shields.io/badge/amazon aws-3776AB.svg?&style=for-the-badge&logo=amazonAWS&logoColor=white&color=232F3E"/>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/jenkins-3776AB.svg?&style=for-the-badge&logo=jenkins&logoColor=white& color=D24939"/>
+<div>
+ <img alt="amazonAWS" src ="https://img.shields.io/badge/amazon aws-3776AB.svg?&style=for-the-badge&logo=amazonAWS&logoColor=white&color=232F3E"/>
+ 
+ <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-3776AB.svg?&style=for-the-badge&logo=jenkins&logoColor=white& color=D24939"/>
+ 
+ <img alt="docker" src ="https://img.shields.io/badge/docker-3776AB.svg?&style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/>
+ 
+ <img alt="nginx" src ="https://img.shields.io/badge/nginx-3776AB.svg?&style=for-the-badge&logo=nginx&logoColor=white&color=009639"/> 
+</div>
 
-<img alt="docker" src ="https://img.shields.io/badge/docker-3776AB.svg?&style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/>
-
-<img alt="nginx" src ="https://img.shields.io/badge/nginx-3776AB.svg?&style=for-the-badge&logo=nginx&logoColor=white&color=009639"/>
 
 ### 🥽 Embedded
 
-<img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>
+<div>
+ <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>
+ 
+ <img alt="c" src ="https://img.shields.io/badge/c-3776AB.svg?&style=for-the-badge&logo=c&logoColor=white&color=A8B9CC"/>
+ 
+ <img alt="raspberrypi" src ="https://img.shields.io/badge/RaspberryPi-3776AB.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white&color=A22846"/>
+ 
+ <img alt="arduino" src ="https://img.shields.io/badge/Arduino-3776AB.svg?&style=for-the-badge&logo=Arduino&logoColor=white&color=00878F"/>
+ 
+ <img alt="RealVNC" src ="https://img.shields.io/badge/RealVNC-3776AB.svg?&style=for-the-badge&logo=RealVNC&logoColor=white&color=blue"/>
+</div>
 
-<img alt="c" src ="https://img.shields.io/badge/c-3776AB.svg?&style=for-the-badge&logo=c&logoColor=white&color=A8B9CC"/>
-
-<img alt="raspberrypi" src ="https://img.shields.io/badge/RaspberryPi-3776AB.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white&color=A22846"/>
-
-<img alt="arduino" src ="https://img.shields.io/badge/Arduino-3776AB.svg?&style=for-the-badge&logo=Arduino&logoColor=white&color=00878F"/>
-
-<img alt="RealVNC" src ="https://img.shields.io/badge/RealVNC-3776AB.svg?&style=for-the-badge&logo=RealVNC&logoColor=white&color=blue"/>
 
 ### 📱 FrontEnd
 
-<img alt="react" src ="https://img.shields.io/badge/react-3776AB.svg?&style=for-the-badge&logo=react&logoColor=black&color=61DAFB"/>
-
-<img alt="css" src ="https://img.shields.io/badge/css-3776AB.svg?&style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/>
-
-<img alt="tailwind" src ="https://img.shields.io/badge/tailwind-3776AB.svg?&style=for-the-badge&logo=tailwind css&logoColor=white&color=06B6D4"/>
-
-<img alt="redux" src ="https://img.shields.io/badge/redux-3776AB.svg?&style=for-the-badge&logo=redux&logoColor=white&color=764ABC"/>
+<div>
+ <img alt="react" src ="https://img.shields.io/badge/react-3776AB.svg?&style=for-the-badge&logo=react&logoColor=black&color=61DAFB"/>
+ 
+ <img alt="css" src ="https://img.shields.io/badge/css-3776AB.svg?&style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/>
+ 
+ <img alt="tailwind" src ="https://img.shields.io/badge/tailwind-3776AB.svg?&style=for-the-badge&logo=tailwind css&logoColor=white&color=06B6D4"/>
+ 
+ <img alt="redux" src ="https://img.shields.io/badge/redux-3776AB.svg?&style=for-the-badge&logo=redux&logoColor=white&color=764ABC"/> 
+</div>
 
 ### 📋 BackEnd
 
-<img alt="nodejs" src ="https://img.shields.io/badge/nodejs-3776AB.svg?&style=for-the-badge&logo=Node.js&logoColor=white&color=339933"/>
+<div>
+ <img alt="nodejs" src ="https://img.shields.io/badge/nodejs-3776AB.svg?&style=for-the-badge&logo=Node.js&logoColor=white&color=339933"/>
+ 
+ <img alt="nestjs" src ="https://img.shields.io/badge/nestjs-3776AB.svg?&style=for-the-badge&logo=NestJS&logoColor=white&color=E0234E"/>
+ 
+ <img alt="typeorm" src ="https://img.shields.io/badge/typeorm-3776AB.svg?&style=for-the-badge&logo=typeorm&logoColor=white&color=262627"/>
+ 
+ <img alt="mysql" src ="https://img.shields.io/badge/mysql-3776AB.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=4479A1"/>
+ 
+ <img alt="swagger" src ="https://img.shields.io/badge/swagger-3776AB.svg?&style=for-the-badge&logo=swagger&logoColor=black&color=85EA2D"/> 
+</div>
 
-<img alt="nestjs" src ="https://img.shields.io/badge/nestjs-3776AB.svg?&style=for-the-badge&logo=NestJS&logoColor=white&color=E0234E"/>
-
-<img alt="typeorm" src ="https://img.shields.io/badge/typeorm-3776AB.svg?&style=for-the-badge&logo=typeorm&logoColor=white&color=262627"/>
-
-<img alt="mysql" src ="https://img.shields.io/badge/mysql-3776AB.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=4479A1"/>
-
-<img alt="swagger" src ="https://img.shields.io/badge/swagger-3776AB.svg?&style=for-the-badge&logo=swagger&logoColor=black&color=85EA2D"/>
